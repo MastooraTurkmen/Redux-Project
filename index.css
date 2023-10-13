@@ -47,6 +47,10 @@ body {
     cursor: pointer;
 }
 
+.input-container button:hover{
+    transform: scale(1.05);
+}
+
 .input-container button, 
 .input-container textarea {
     border: 2px solid #999;;
