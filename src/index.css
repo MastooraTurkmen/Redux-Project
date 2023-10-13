@@ -75,6 +75,7 @@ h4 {
 p {
   margin-bottom: 1.25rem;
 }
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
