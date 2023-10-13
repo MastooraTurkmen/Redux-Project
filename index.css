@@ -51,6 +51,7 @@ body {
     transform: scale(1.05);
     background-color: white;
     color: rgb(17, 16, 16);
+    font-weight: bold;
 }
 
 .input-container button, 
