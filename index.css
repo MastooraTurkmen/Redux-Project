@@ -48,7 +48,7 @@ body {
 }
 
 .input-container button:hover{
-    transform: scale(1.05);
+    transform: scale(1.02);
     background-color: white;
     color: rgb(17, 16, 16);
     font-weight: bold;
