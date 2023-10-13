@@ -39,6 +39,7 @@ body {
 .input-container textarea {
     height: 64px;
     padding: 8px;
+    resize: none;
 }
 
 .input-container button {
