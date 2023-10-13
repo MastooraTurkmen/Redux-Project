@@ -167,6 +167,7 @@ nav svg {
   width: 40px;
   color: var(--clr-white);
 }
+
 .amount-container {
   position: absolute;
   top: -0.6rem;
