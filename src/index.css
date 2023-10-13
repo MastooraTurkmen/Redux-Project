@@ -162,6 +162,7 @@ nav h3 {
   display: block;
   position: relative;
 }
+
 nav svg {
   width: 40px;
   color: var(--clr-white);
