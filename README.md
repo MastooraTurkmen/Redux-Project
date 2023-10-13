@@ -1,15 +1,4 @@
-# Film Watchlist 📽 🎞
-
-A very simple watchlist which you can add your movies and other things on it.
-
-https://my-watchlist-film.netlify.app/
-
-![Screenshot-image-1](./images/image.png)
-
-![Screenshot-image-2](./images/Watchlist.png)
-
------
-
+# Redux
 
 ## Languages and Tools are used 🛠 🖊
 
