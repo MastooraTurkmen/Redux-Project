@@ -142,6 +142,7 @@ nav {
   background: var(--clr-primary);
   padding: 1.25rem 2rem;
 }
+
 .nav-center {
   max-width: var(--fixed-width);
   width: 100%;
