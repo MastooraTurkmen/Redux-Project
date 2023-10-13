@@ -8,9 +8,4 @@ addBtn.addEventListener('click', function() {
     newFilm.textContent = filmInput.value
     filmList.appendChild(newFilm)
     filmInput.value = ''
-
-    // filmList.innerHTML += `
-    //     <div class="film-item">${filmInput.value}</div>
-    //     `
-    // filmInput.value = ''
 }) 
