@@ -50,6 +50,7 @@ body {
 .input-container button:hover{
     transform: scale(1.05);
     background-color: white;
+    color: rgb(17, 16, 16);
 }
 
 .input-container button, 
