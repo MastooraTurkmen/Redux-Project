@@ -21,6 +21,7 @@ Variables
   --small-screen-width: 90vw;
   --fixed-width: 50rem;
 }
+
 * {
   margin: 0;
   padding: 0;
