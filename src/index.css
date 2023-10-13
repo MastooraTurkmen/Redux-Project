@@ -96,7 +96,7 @@ p {
   body {
     font-size: 1rem;
   }
-  
+
   h1,
   h2,
   h3,
@@ -104,6 +104,7 @@ p {
     line-height: 1;
   }
 }
+
 /* more global css */
 
 .btn {
