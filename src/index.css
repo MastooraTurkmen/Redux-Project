@@ -192,6 +192,7 @@ nav svg {
 Cart
 ===============
 */
+
 .cart {
   min-height: calc(100vh - 120px);
   width: 90vw;
@@ -200,6 +201,7 @@ Cart
   padding: 2.5rem 0;
   max-width: var(--fixed-width);
 }
+
 .cart h2 {
   text-transform: uppercase;
   text-align: center;
