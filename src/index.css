@@ -303,6 +303,7 @@ Cart Item
 .amount-btn svg {
   color: var(--clr-primary);
 }
+
 .amount-btn:hover svg {
   color: var(--clr-primary-light);
 }
