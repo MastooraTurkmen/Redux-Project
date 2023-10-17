@@ -292,6 +292,7 @@ Cart Item
 .remove-btn:hover {
   color: var(--clr-primary-light);
 }
+
 .amount-btn {
   width: 24px;
   background: transparent;
