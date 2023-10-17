@@ -242,6 +242,7 @@ Cart
   color: var(--clr-red-dark);
   border-color: var(--clr-red-light);
 }
+
 .confirm-btn {
   border-color: var(--clr-primary);
   color: var(--clr-primary);
