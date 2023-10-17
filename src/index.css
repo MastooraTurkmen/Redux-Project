@@ -219,6 +219,7 @@ Cart
   margin-top: 4rem;
   text-align: center;
 }
+
 .cart-total h4 {
   text-transform: capitalize;
   display: flex;
