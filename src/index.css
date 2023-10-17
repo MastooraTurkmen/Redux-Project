@@ -299,6 +299,7 @@ Cart Item
   border: none;
   cursor: pointer;
 }
+
 .amount-btn svg {
   color: var(--clr-primary);
 }
