@@ -277,6 +277,7 @@ Cart Item
 .item-price {
   color: var(--clr-grey-5);
 }
+
 .remove-btn {
   color: var(--clr-primary);
   letter-spacing: var(--spacing);
