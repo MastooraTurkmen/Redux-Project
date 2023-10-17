@@ -267,6 +267,7 @@ Cart Item
   height: 5rem;
   object-fit: cover;
 }
+
 .cart-item h4 {
   margin-bottom: 0.5rem;
   font-weight: 500;
