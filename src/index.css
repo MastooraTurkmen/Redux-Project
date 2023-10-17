@@ -253,6 +253,7 @@ Cart
 Cart Item
 ===============
 */
+
 .cart-item {
   display: grid;
   align-items: center;
