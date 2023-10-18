@@ -1,0 +1,1 @@
+import { CartIcon } from '../icons'
