@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux'
 
 const Navbar = () => {
     const amount = useSelector((store) => {
-        return store.cart
+        return store.cart.amount
     })
 
     return (
