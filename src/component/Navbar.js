@@ -13,7 +13,7 @@ const Navbar = () => {
                 <div className="nav-container">
                     <CartIcon />
                     <div className="amount-container">
-                        <p className="total-amount">0</p>
+                        <p className="total-amount">{amount}</p>
                     </div>
                 </div>
             </div>
