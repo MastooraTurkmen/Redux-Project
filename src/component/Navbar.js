@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className="nav-container">
                     <CartIcon />
                     <div className="amount-container">
-                        
+                        <p className="total-amount"></p>
                     </div>
                 </div>
             </div>
