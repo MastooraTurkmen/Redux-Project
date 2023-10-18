@@ -3,7 +3,9 @@ import { useSelector } from 'react-redux'
 
 const Navbar = () => {
     return (
-        <div>Navbar</div>
+        <nav>
+            <div className="nav-center"></div>
+        </nav>
     )
 }
 
