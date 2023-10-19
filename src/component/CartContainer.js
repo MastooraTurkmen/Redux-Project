@@ -21,9 +21,9 @@ const CartContainer = () => {
                 <h2>your bag</h2>
             </header>
             <div>
-                {cartItems.map(() => {
+                {cartItems.map((item) => {
                     return (
-                        
+
                     )
                 })}
             </div>
