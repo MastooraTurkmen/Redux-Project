@@ -46,8 +46,3 @@ export const ChevronUp = () => {
     </svg>
   );
 };
-
-
-export const Testing = () => (
-  </svg>
-)
