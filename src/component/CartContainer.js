@@ -7,7 +7,9 @@ const CartContainer = () => {
     if (amount < 1) {
         return (
             <section className="cart">
-
+                <header>
+                    
+                </header>
             </section>
         )
     }
