@@ -20,6 +20,9 @@ const CartContainer = () => {
             <header>
                 <h2>your bag</h2>
             </header>
+            <div>
+                
+            </div>
         </section>
     )
 }
