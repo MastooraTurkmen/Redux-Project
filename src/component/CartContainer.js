@@ -21,7 +21,11 @@ const CartContainer = () => {
                 <h2>your bag</h2>
             </header>
             <div>
-                
+                {cartItems.map(() => {
+                    return (
+                        
+                    )
+                })}
             </div>
         </section>
     )
