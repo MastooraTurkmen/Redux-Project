@@ -1,6 +1,6 @@
 import React from 'react'
 
-function CartContainer() {
+const CartContainer = () => {
     return (
         <div>CartContainer</div>
     )
