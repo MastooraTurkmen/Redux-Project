@@ -8,7 +8,7 @@ const CartContainer = () => {
         return (
             <section className="cart">
                 <header>
-                    
+                    <h2>Your bag</h2>
                 </header>
             </section>
         )
