@@ -48,7 +48,7 @@ export const ChevronUp = () => {
 };
 
 
-export const Testing = () => {
+export const Testing = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
@@ -66,5 +66,4 @@ export const Testing = () => {
       7.894L21 21m-3.228-3.228-3.65-3.65m0 0a3 3 0 1 0-4.243-4.243m4.242 4.242L9.88 9.88"
     />
   </svg>
-
-}
+)
