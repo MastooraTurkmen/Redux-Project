@@ -22,9 +22,7 @@ const CartContainer = () => {
             </header>
             <div>
                 {cartItems.map((item) => {
-                    return (
-
-                    )
+                    return 
                 })}
             </div>
         </section>
