@@ -32,6 +32,7 @@ const CartContainer = () => {
                         <span>${total}</span>
                     </h4>
                 </div>
+                <button className="btn clear-btn">clear btn</button>
             </footer>
         </section>
     )
