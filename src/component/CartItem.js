@@ -9,6 +9,9 @@ const CartItem = ({ id, img, title, price, amount }) => {
                 <h4 className="item-price">${price}</h4>
                 <button className="remove-btn">remove</button>
             </div>
+            <div>
+                
+            </div>
         </article>
     )
 }
