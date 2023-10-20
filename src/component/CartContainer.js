@@ -26,10 +26,12 @@ const CartContainer = () => {
                 })}
             </div>
             <footer>
-                <hr />
-                <h4>total
-                    <span>${total}</span>
-                </h4>
+                <div className="cart-total">
+                    <hr />
+                    <h4>total
+                        <span>${total}</span>
+                    </h4>
+                </div>
             </footer>
         </section>
     )
