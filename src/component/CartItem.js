@@ -1,4 +1,4 @@
-import React from 'react'
+import { ChevronDown } from '../icons'
 
 const CartItem = () => {
     return (
