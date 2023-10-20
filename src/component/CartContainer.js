@@ -34,7 +34,7 @@ const CartContainer = () => {
                         <span>${total}</span>
                     </h4>
                 </div>
-                <button onClick={() => dispatch(clearCart)} className="btn clear-btn">clear btn</button>
+                <button onClick={() => dispatch(clearCart())} className="btn clear-btn">clear btn</button>
             </footer>
         </section>
     )
