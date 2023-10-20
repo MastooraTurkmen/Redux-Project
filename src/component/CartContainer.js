@@ -27,6 +27,7 @@ const CartContainer = () => {
             </div>
             <footer>
                 <hr />
+                <h4></h4>
             </footer>
         </section>
     )
