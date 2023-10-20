@@ -28,7 +28,7 @@ const CartContainer = () => {
             <footer>
                 <hr />
                 <h4>total
-                    <span></span>
+                    <span>${total}</span>
                 </h4>
             </footer>
         </section>
