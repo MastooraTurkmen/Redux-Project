@@ -25,6 +25,7 @@ const CartContainer = () => {
                     return <CartItem key={item.id} {...item} />
                 })}
             </div>
+            <footer></footer>
         </section>
     )
 }
