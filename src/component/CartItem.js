@@ -1,4 +1,4 @@
-import { ChevronDown } from '../icons'
+import { ChevronDown, ChevronUp } from '../icons'
 
 const CartItem = () => {
     return (
