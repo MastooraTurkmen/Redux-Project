@@ -6,6 +6,7 @@ import { calculateTotal } from "./features/cart/cartSlice";
 
 function App() {
   const { cartItems } = useSelector((item) => item.cart)
+  const dispatch = useDispatch()
 
   return (
     <main>
