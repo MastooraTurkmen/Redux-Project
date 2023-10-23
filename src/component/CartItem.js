@@ -13,7 +13,9 @@ const CartItem = ({ id, img, title, price, amount }) => {
                 <button onClick={() => dispatch(removeItem(id))} className="remove-btn">remove</button>
             </div>
             <div>
-                <button onClick={() => dispatch(increaseItem({ id }))} className="amount-btn">
+                <button onClick={() => {
+                    dispatch(increaseItem({ id }))
+                }} className="amount-btn">
                     <ChevronUp />
                 </button>
                 <p className="amount">{amount}</p>
