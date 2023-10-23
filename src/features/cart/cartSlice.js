@@ -28,7 +28,7 @@ const cartSlice = createSlice({
             cartItem.amount = cartItem.amount - 1
         },
         calculateTotal: (state, { payload }) => {
-            
+            let amount = 0;
             state.cartItems.find((item) => {
                 
             })
