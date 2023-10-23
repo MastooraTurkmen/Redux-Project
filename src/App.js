@@ -5,6 +5,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { calculateTotal } from "./features/cart/cartSlice";
 
 function App() {
+  const { cartItems } = useSelector((item) => item.cart)
+
   return (
     <main>
       <Navbar />
