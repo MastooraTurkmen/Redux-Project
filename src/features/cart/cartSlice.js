@@ -31,7 +31,8 @@ const cartSlice = createSlice({
             let amount = 0;
             let total = 0;
             state.cartItems.find((item) => {
-
+                amount += item.amount
+                total += item.total * item.price
             })
         }
     }
