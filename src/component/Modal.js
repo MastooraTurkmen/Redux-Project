@@ -12,6 +12,7 @@ const Modal = () => {
                 <div className="btn-container">
                     <button onClick={() => {
                         dispatch(modalSlice())
+                        dispatch(clearCart())
                     }} className="btn confirm-btn">confirm</button>
                     <button className="btn clear-btn">cancel</button>
                 </div>
