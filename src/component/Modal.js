@@ -1,5 +1,6 @@
 import React from 'react'
 import modalSlice from '../features/modal/modalSlice'
+import { clearCart } from '../features/cart/cartSlice'
 
 const Modal = () => {
     return (
