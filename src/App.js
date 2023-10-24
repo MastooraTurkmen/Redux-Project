@@ -5,12 +5,12 @@ import { useDispatch, useSelector } from "react-redux";
 import { calculateTotal } from "./features/cart/cartSlice";
 
 function App() {
-  const { cartItems, cart } = useSelector((store) => store.cart)
+  const { cartItems } = useSelector((store) => store.cart)
   const dispatch = useDispatch();
 
   useEffect(() => {
     dispatch(calculateTotal())
-  }, [cart])
+  }, [cartItems])
 
   return (
     <main>
