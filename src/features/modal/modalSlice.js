@@ -16,3 +16,6 @@ const modalSlice = createSlice({
         }
     }
 })
+
+
+export default modalSlice.reducer;
