@@ -35,7 +35,7 @@ const CartContainer = () => {
                         <span>${total.toFixed(2)}</span>
                     </h4>
                 </div>
-                <button onClick={() => dispatch(clearCart())} className="btn clear-btn">clear btn</button>
+                <button onClick={() => dispatch(modalSlice())} className="btn clear-btn">clear btn</button>
             </footer>
         </section>
     )
