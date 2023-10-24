@@ -14,7 +14,9 @@ const Modal = () => {
                         dispatch(modalSlice())
                         dispatch(clearCart())
                     }} className="btn confirm-btn">confirm</button>
-                    <button className="btn clear-btn">cancel</button>
+                    <button onClick={() => {
+                        dispatch(modalSlice())
+                    }} className="btn clear-btn">cancel</button>
                 </div>
             </div>
         </aside>
