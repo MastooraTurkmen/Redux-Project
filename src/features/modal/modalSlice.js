@@ -5,5 +5,9 @@ const initialState = {
 }
 
 const modalSlice = createSlice({
-
+    name: 'modal',
+    initialState,
+    reducers: {
+        
+    }
 })
