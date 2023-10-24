@@ -1,4 +1,5 @@
 import React from 'react'
+import modalSlice from '../features/modal/modalSlice'
 
 const Modal = () => {
     return (
