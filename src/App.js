@@ -5,7 +5,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { calculateTotal } from "./features/cart/cartSlice";
 
 function App() {
-  const { cartItems } = useSelector((item) => item.cart)
+  const { cartItems, cart } = useSelector((item) => item.cart)
   const dispatch = useDispatch();
 
   useEffect(() => {
