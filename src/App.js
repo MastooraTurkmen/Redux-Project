@@ -6,7 +6,7 @@ import { calculateTotal, getCartItems } from "./features/cart/cartSlice";
 import Modal from "./component/Modal";
 
 function App() {
-  const { cartItems } = useSelector((store) => store.cart)
+  const { cartItems, isLoading } = useSelector((store) => store.cart)
   const { isOpen } = useSelector((store) => store.modal)
   const dispatch = useDispatch();
 
