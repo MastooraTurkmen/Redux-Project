@@ -12,5 +12,4 @@ https://my-watchlist-film.netlify.app/
 1. **Languages**
     + [HTML](https://github.com/topics/html)
     + [CSS](https://github.com/topics/css)
-    + [React](https://github.com/topics/react)
     + [JavaScript](https://github.com/topics/javascript)
