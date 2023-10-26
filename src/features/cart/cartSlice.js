@@ -9,7 +9,9 @@ const initialState = {
 }
 
 export const getCartItem = createAsyncThunk('cart/getCartItems', () => {
-    
+    return fetch(url)
+        .then(response => response.json())
+        .then(err => console.log(err))
 })
 
 const cartSlice = createSlice({
