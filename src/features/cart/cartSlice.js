@@ -45,6 +45,11 @@ const cartSlice = createSlice({
             state.amount = amount;
             state.total = total
         }
+    },
+    extraReducers: {
+        [getCartItems.pending]: (state) => {
+            state.isLoading = true
+        }
     }
 })
 
