@@ -19,4 +19,5 @@ https://my-watchlist-film.netlify.app/
 2. **Tools** 
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
-  
+    + [Figma](https://github.com/topics/figma)
+
