@@ -49,7 +49,10 @@ const cartSlice = createSlice({
     extraReducers: {
         [getCartItems.pending]: (state) => {
             state.isLoading = true
-        }
+        },
+        [getCartItems.fulfilled]: (state) => {
+            state.isLoading = false
+        },
     }
 })
 
