@@ -12,9 +12,9 @@ const url = 'https://www.course-api.com/react-useReducer-cart-project'
 
 export const getCartItems = createAsyncThunk('cart/getCartItems', async () => {
     try {
-        
+        const respons = await axios.get(url)
     } catch (error) {
-        
+
     }
 })
 
