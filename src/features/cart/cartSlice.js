@@ -53,6 +53,9 @@ const cartSlice = createSlice({
         [getCartItems.fulfilled]: (state) => {
             state.isLoading = false
         },
+        [getCartItems.rejected]: (state) => {
+            state.isLoading = true
+        },
     }
 })
 
