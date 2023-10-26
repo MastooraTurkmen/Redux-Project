@@ -8,6 +8,8 @@ const initialState = {
     isLoading: true,
 }
 
+const url = 'https://www.course-api.com/react-useReducer-cart-project'
+
 export const getCartItem = createAsyncThunk('cart/getCartItems', () => {
     return fetch(url)
         .then(response => response.json())
