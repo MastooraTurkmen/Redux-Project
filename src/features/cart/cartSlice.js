@@ -10,10 +10,8 @@ const initialState = {
 
 const url = 'https://www.course-api.com/react-useReducer-cart-project'
 
-export const getCartItems = createAsyncThunk('cart/getCartItems', () => {
-    return fetch(url)
-        .then(response => response.json())
-        .then(err => console.log(err))
+export const getCartItems = createAsyncThunk('cart/getCartItems', async () => {
+    
 })
 
 const cartSlice = createSlice({
