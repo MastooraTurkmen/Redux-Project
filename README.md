@@ -35,4 +35,6 @@ https://my-watchlist-film.netlify.app/
 $ gh repo clone MastooraTurkmen/My-Watchlist
 
 # Go inside the repository
+$ cd my-watchlist
+
 ```
