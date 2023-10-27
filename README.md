@@ -25,3 +25,8 @@ https://my-watchlist-film.netlify.app/
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
 
+-----
+
+
+## For cloning the project 🪛
+
