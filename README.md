@@ -11,7 +11,7 @@ https://my-watchlist-film.netlify.app/
 -----
 
 
-## Languages and Tools are used
+## Languages and Tools are used 🛠 🖊
 
 1. **Languages**
 
