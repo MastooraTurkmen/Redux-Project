@@ -32,5 +32,7 @@ https://my-watchlist-film.netlify.app/
 
 ```
 # Clone this repository
+$ gh repo clone MastooraTurkmen/My-Watchlist
+
 
 ```
