@@ -30,3 +30,7 @@ https://my-watchlist-film.netlify.app/
 
 ## For cloning the project 🪛
 
+```
+# Clone this repository
+
+```
