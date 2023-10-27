@@ -43,7 +43,8 @@ $ cd my-watchlist
 ```
 
 
-## Deployment📥
+## Deployment 📥 🧰
+
 1. How to deploy our project to netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 3. Go to Netlify site and select Add a new site.
