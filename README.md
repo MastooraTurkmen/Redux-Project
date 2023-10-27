@@ -21,7 +21,7 @@ https://my-watchlist-film.netlify.app/
     + [CSS3](https://github.com/topics/css3)
     + [JavaScript](https://github.com/topics/javascript)
 
-2. **Tools** 
+2. **Tools** 🔧
 
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
