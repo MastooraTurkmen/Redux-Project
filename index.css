@@ -40,6 +40,7 @@ body {
     height: 64px;
     padding: 8px;
     resize: none;
+    font-size: 1.2em;
 }
 
 .input-container button {
@@ -57,6 +58,6 @@ body {
 
 .input-container button, 
 .input-container textarea {
-    border: 2px solid #999;;
+    border: 2px solid #999;
     border-radius: 10px;
 }
