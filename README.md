@@ -52,3 +52,12 @@ $ cd my-watchlist
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for My-Watchlist_** and then select the **_Deploy My-Watchlist_** Button.
 7. Now your project is Live.
+
+
+
+-----
+
+
+## Author 👩🏻‍💻 
+
+**Mastoora Turkmen**  
