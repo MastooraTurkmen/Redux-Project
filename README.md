@@ -42,6 +42,7 @@ $ cd my-watchlist
 
 ```
 
+-----
 
 ## Deployment 📥 🧰
 
@@ -65,3 +66,5 @@ $ cd my-watchlist
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 [Github](https://github.com/MastooraTurkmen/) 
 [Twitter](https://twitter.com/MastooraJ22)
+
+------
