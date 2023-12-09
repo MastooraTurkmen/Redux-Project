@@ -38,7 +38,7 @@ https://my-watchlist-film.netlify.app/
 $ git clone MastooraTurkmen/My-Watchlist
 
 # Go inside the repository
-$ cd my-watchlist
+$ cd My-Watchlist
 
 ```
 
