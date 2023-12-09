@@ -4,7 +4,7 @@ A very simple watchlist which you can add your movies and other things on it.
 
 https://my-watchlist-film.netlify.app/
 
-![Alt text](./images/image.png)
+![Screenshot-image-1](./images/image.png)
 
 ![Alt text](./images/Watchlist.png)
 
