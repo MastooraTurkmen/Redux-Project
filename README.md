@@ -6,7 +6,7 @@ https://my-watchlist-film.netlify.app/
 
 ![Screenshot-image-1](./images/image.png)
 
-![Alt text](./images/Watchlist.png)
+![Screenshot-image-2](./images/Watchlist.png)
 
 -----
 
