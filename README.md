@@ -2,7 +2,7 @@
 
 ![Screenshot](./screenshots/image.png)
 ![Screenshot](./screenshots/image-1.png)
-![Screenshot](image-2.png)
+![Screenshot](./screenshots/image-2.png)
 
 #### Docs
 
