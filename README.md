@@ -1,5 +1,7 @@
 # Redux Toolkit
 
+![alt text](image.png)
+
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
