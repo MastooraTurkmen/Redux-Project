@@ -1,7 +1,7 @@
 # Redux Toolkit
 
 ![Screenshot](./screenshots/image.png)
-![Screenshot](image-1.png)
+![Screenshot](./screenshots/image-1.png)
 ![Screenshot](image-2.png)
 
 #### Docs
